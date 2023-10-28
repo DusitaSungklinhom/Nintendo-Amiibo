@@ -1,16 +1,3 @@
 # my_app
+![Image 29-10-2566 BE at 01 20](https://github.com/DusitaSungklinhom/Nintendo-Amiibo/assets/120545258/57ecf30e-f25c-41e2-bdbe-8df9150f41a9)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
